@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IM_React%60/static/css/main.a5b814c4.css",
+    "main.js": "/IM_React%60/static/js/main.1fd3c039.js",
+    "index.html": "/IM_React%60/index.html",
+    "main.a5b814c4.css.map": "/IM_React%60/static/css/main.a5b814c4.css.map",
+    "main.1fd3c039.js.map": "/IM_React%60/static/js/main.1fd3c039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b814c4.css",
+    "static/js/main.1fd3c039.js"
+  ]
+}
